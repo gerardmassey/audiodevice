@@ -2,7 +2,7 @@
 
 Type "audiodevice help" to print this usage message.
 
-# Usage
+## Usage
 ```audiodevice``` list devices for input, output, and system audio  
 ```audiodevice <port>``` display the audio device for the selected port  
 ```audiodevice <port> list``` list available audio devices for the selected port  
